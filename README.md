@@ -2,31 +2,31 @@
 En este proyecto se realiza un análisis estadistico completo usando R para romper mitos respecto a los estudiantes con buenas notas. El estudio abarca desde la limpieza de datos hasta el ajuste de un modelo predictivo y el contraste de hipótesis para desmentir estereotipos.
 
 ### TECNOLOGÍAS Y LIBRERÍAS
-* **R** (lenguaje principal)
-* **Tidyverse** (`dplyr`, `readr`, `forcats`) para manipular y limpiar los datos
-* **Google Forms** para la adquisición de datos
+** R (lenguaje principal)
+** Tidyverse (`dplyr`, `readr`, `forcats`) para manipular y limpiar los datos
+** Google Forms para la adquisición de datos
 
 ### FASES DEL PROYECTO:
 
-  * 1. Obtención de los datos*
+  ** 1. Obtención de los datos**
       Obtención de los datos mediante una encuesta pública a 100 estudiantes universitarios posteriormente exportándose a un archivo CSV.
 
-  * 2. Limpieza y transformación*
+  ** 2. Limpieza y transformación**
       Formateo de las variables, tratamiento de los valores nulos, filtrado de columnas y conversión de variables categóricas en factores ordenados.
 
-  * 3. Análisis exploratorio*
+  ** 3. Análisis exploratorio**
       Uso de histogramas y diagramas de cajas para analizar la distribución de todas las variables y generación de una matriz de correlación Spearman para       identificar impacto de variables respecto a la nota.
   
-  * 4. Modelado predictivo*
+  ** 4. Modelado predictivo**
       Comparación de tres modelos de regresión lineal, selección del modelo optimo basado en R² ajustado y posterior análisis del modelo obtenido.
 
-  * 5. Contraste de Hipótesis*
+  ** 5. Contraste de Hipótesis**
       Se aplicaron pruebas t de Student para juzgar los mitos populares:
         -¿Se autoperciben los estudiantes como estresados por encima de la media?
         -¿Tienen los estudiantes con mejores notas menos horas de sueño?  
         -¿Existe una relación real entre el consumo de bebidas estimulantes y las horas de estudio?  
         -¿Afecta el deporte negativamente al tiempo dedicado al estudio?
-  * 6. Elaboración de informe *
+  ** 6. Elaboración de informe **
       Se elaboró un informe en pdf exponiendo los resultados de nuestro análisis comparandolos con la literatura pasada.
   
 ### CONCLUSIONES CLAVE
