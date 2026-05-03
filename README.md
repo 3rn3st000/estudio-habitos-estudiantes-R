@@ -31,10 +31,10 @@ En este proyecto se realiza un análisis estadistico completo usando R para romp
   
 ### CONCLUSIONES CLAVE
    
-    El análisis mostró a las horas de estudio junto con el sueño como los principales predictores dentro de las variables encuestadas, también se              demostró que los estudiantes se sienten estresados por encima del promedio (3,25/5), por último se demostraron todas las hipótesis sacadas de la           cultura popular como falsas.  
+   El análisis mostró a las horas de estudio junto con el sueño como los principales predictores dentro de las variables encuestadas, también se              demostró que los estudiantes se sienten estresados por encima del promedio (3,25/5), por último se demostraron todas las hipótesis sacadas de la           cultura popular como falsas.  
       
 ### CREDITOS
-    Proyecto realizado para la asignatura de Estadística. Aunque se presentó como proyecto grupal, fui el responsable principal del desarrollo integro del     código, el análisis estadistico así como la redacción del informe
+   Proyecto realizado para la asignatura de Estadística. Aunque se presentó como proyecto grupal, fui el responsable principal del desarrollo integro del     código, el análisis estadistico así como la redacción del informe
 
 
 
