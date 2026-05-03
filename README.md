@@ -1,10 +1,10 @@
 # estudio-habitos-estudiantes-R
 En este proyecto se realiza un análisis estadistico completo usando R para romper mitos respecto a los estudiantes con buenas notas. El estudio abarca desde la limpieza de datos hasta el ajuste de un modelo predictivo y el contraste de hipótesis para desmentir estereotipos.
 
-### TECNOLOGIAS Y LIBRERIAS :  
-  *R(lenguaje principal). \n
-  *Tidyverse(dplyr,readr,forecast) para manipular y limpiar los datos.\n
-  *Google forms para la adquisición de datos.\n
+### TECNOLOGÍAS Y LIBRERÍAS
+* **R** (lenguaje principal)
+* **Tidyverse** (`dplyr`, `readr`, `forcats`) para manipular y limpiar los datos
+* **Google Forms** para la adquisición de datos
 
 ### FASES DEL PROYECTO:
 
